@@ -1,0 +1,1 @@
+This repository contains a db.json file which has all the content for my online portfolio that I need to regularly update. I use json-server to make the db.json file act as an API where each attribute in the file is a resource.
