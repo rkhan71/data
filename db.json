@@ -40,17 +40,5 @@
             "preview": "This is a cipher I wrote in C that has the ability to take in a text file and output a file containing the characters from the inputted file encrypted into hexadecimal digits or hexadecimal digits from the inputted file decrypted into characters.",
             "link": "https://github.com/rkhan71/cipher"
         }
-    ],
-    "education": [
-        {
-            "title": "Georgia Institute of Technology",
-            "date": "August 2021 - December 2024",
-            "body": ["Candidate for Bachelor of Science in Computer Science with 4.0 GPA", "Earned Faculty Honors in all semesters"]
-        },
-        {
-            "title": "International School of Kenya",
-            "date": "August 2016 - May 2021",
-            "body": ["International Baccalaureate Diploma with 4 Higher Level Subjects (Math, Physics, Chemistry, Economics), scored 43/45 points which was a top 5 result in my grade"]
-        }
     ]
 }
